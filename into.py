@@ -1,2 +1,2 @@
-int x = 5;
-print(x)
+
+print(" this is into file")
